@@ -1,2 +1,2 @@
 # Machine Learning
-Different models that I have implemented.
+ML Algorithms I have implemented.
