@@ -1,2 +1,2 @@
 # Machine Learning
-ML Algorithms I have implemented.
+Machine Learning Algorithms I have implemented.
